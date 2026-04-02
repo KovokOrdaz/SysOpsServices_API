@@ -1,5 +1,2 @@
 .vs/
 src/**/bin/
-src/SysOpsServices.Domain/
-src/SysOpsServices.Application/
-src/SysOpsServices.Infrastructure/
