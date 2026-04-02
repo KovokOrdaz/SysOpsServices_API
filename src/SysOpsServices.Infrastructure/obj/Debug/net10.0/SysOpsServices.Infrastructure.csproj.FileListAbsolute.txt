@@ -1,0 +1,17 @@
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\bin\Debug\net10.0\SysOpsServices.Infrastructure.deps.json
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\bin\Debug\net10.0\SysOpsServices.Infrastructure.dll
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\bin\Debug\net10.0\SysOpsServices.Infrastructure.pdb
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\bin\Debug\net10.0\SysOpsServices.Application.dll
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\bin\Debug\net10.0\SysOpsServices.Domain.dll
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\bin\Debug\net10.0\SysOpsServices.Domain.pdb
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\bin\Debug\net10.0\SysOpsServices.Application.pdb
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\obj\Debug\net10.0\SysOpsServices.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\obj\Debug\net10.0\SysOpsServices.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\obj\Debug\net10.0\SysOpsServices.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\obj\Debug\net10.0\SysOpsServices.Infrastructure.AssemblyInfo.cs
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\obj\Debug\net10.0\SysOpsServices.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\obj\Debug\net10.0\SysOpsSe.E99A79D9.Up2Date
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\obj\Debug\net10.0\SysOpsServices.Infrastructure.dll
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\obj\Debug\net10.0\refint\SysOpsServices.Infrastructure.dll
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\obj\Debug\net10.0\SysOpsServices.Infrastructure.pdb
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\obj\Debug\net10.0\ref\SysOpsServices.Infrastructure.dll

@@ -1,0 +1,11 @@
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\bin\Debug\net10.0\SysOpsServices.Domain.deps.json
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\bin\Debug\net10.0\SysOpsServices.Domain.dll
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\bin\Debug\net10.0\SysOpsServices.Domain.pdb
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\obj\Debug\net10.0\SysOpsServices.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\obj\Debug\net10.0\SysOpsServices.Domain.AssemblyInfoInputs.cache
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\obj\Debug\net10.0\SysOpsServices.Domain.AssemblyInfo.cs
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\obj\Debug\net10.0\SysOpsServices.Domain.csproj.CoreCompileInputs.cache
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\obj\Debug\net10.0\SysOpsServices.Domain.dll
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\obj\Debug\net10.0\refint\SysOpsServices.Domain.dll
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\obj\Debug\net10.0\SysOpsServices.Domain.pdb
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\obj\Debug\net10.0\ref\SysOpsServices.Domain.dll

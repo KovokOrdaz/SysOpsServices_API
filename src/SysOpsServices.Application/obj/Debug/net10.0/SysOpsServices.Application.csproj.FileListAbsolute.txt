@@ -1,0 +1,15 @@
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\bin\Debug\net10.0\SysOpsServices.Application.deps.json
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\bin\Debug\net10.0\SysOpsServices.Application.dll
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\bin\Debug\net10.0\SysOpsServices.Application.pdb
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\bin\Debug\net10.0\SysOpsServices.Domain.dll
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\bin\Debug\net10.0\SysOpsServices.Domain.pdb
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\obj\Debug\net10.0\SysOpsServices.Application.csproj.AssemblyReference.cache
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\obj\Debug\net10.0\SysOpsServices.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\obj\Debug\net10.0\SysOpsServices.Application.AssemblyInfoInputs.cache
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\obj\Debug\net10.0\SysOpsServices.Application.AssemblyInfo.cs
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\obj\Debug\net10.0\SysOpsServices.Application.csproj.CoreCompileInputs.cache
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\obj\Debug\net10.0\SysOpsSe.38D0036E.Up2Date
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\obj\Debug\net10.0\SysOpsServices.Application.dll
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\obj\Debug\net10.0\refint\SysOpsServices.Application.dll
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\obj\Debug\net10.0\SysOpsServices.Application.pdb
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\obj\Debug\net10.0\ref\SysOpsServices.Application.dll

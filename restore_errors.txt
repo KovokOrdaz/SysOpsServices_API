@@ -1,0 +1,105 @@
+Build started 3/25/2026 6:58:50 AM.
+     1>Project "C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx" on node 1 (Restore target(s)).
+     1>ValidateSolutionConfiguration:
+         Building solution configuration "Debug|Any CPU".
+       _GetAllRestoreProjectPathItems:
+         Determining projects to restore...
+     1>Project "C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx" (1) is building "C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\SysOpsServices.Domain.csproj" (3:7) on node 2 (_GenerateProjectRestoreGraph target(s)).
+     3>AddPrunePackageReferences:
+         Loading prune package data from PrunePackageData folder
+         Failed to load prune package data from PrunePackageData folder, loading from targeting packs instead
+         Looking for targeting packs in C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref
+         Pack directories found: C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\10.0.5
+     1>Project "C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx" (1) is building "C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\SysOpsServices.Application.csproj" (2:7) on node 4 (_GenerateProjectRestoreGraph target(s)).
+     2>AddPrunePackageReferences:
+         Loading prune package data from PrunePackageData folder
+     3>AddPrunePackageReferences:
+         Found package overrides file C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\10.0.5\data\PackageOverrides.txt
+     2>AddPrunePackageReferences:
+         Failed to load prune package data from PrunePackageData folder, loading from targeting packs instead
+         Looking for targeting packs in C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref
+         Pack directories found: C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\10.0.5
+         Found package overrides file C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\10.0.5\data\PackageOverrides.txt
+     1>Project "C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx" (1) is building "C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\SysOpsServices.Infrastructure.csproj" (4:6) on node 3 (_GenerateProjectRestoreGraph target(s)).
+     4>AddPrunePackageReferences:
+         Loading prune package data from PrunePackageData folder
+         Failed to load prune package data from PrunePackageData folder, loading from targeting packs instead
+         Looking for targeting packs in C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref
+         Pack directories found: C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\10.0.5
+         Found package overrides file C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\10.0.5\data\PackageOverrides.txt
+     3>Done Building Project "C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\SysOpsServices.Domain.csproj" (_GenerateProjectRestoreGraph target(s)).
+     2>Done Building Project "C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\SysOpsServices.Application.csproj" (_GenerateProjectRestoreGraph target(s)).
+     4>Done Building Project "C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\SysOpsServices.Infrastructure.csproj" (_GenerateProjectRestoreGraph target(s)).
+     1>Project "C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx" (1) is building "C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Api\SysOpsServices.Api.csproj" (5:5) on node 1 (_GenerateProjectRestoreGraph target(s)).
+     5>AddPrunePackageReferences:
+         Loading prune package data from PrunePackageData folder
+         Failed to load prune package data from PrunePackageData folder, loading from targeting packs instead
+         Looking for targeting packs in C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref
+         Pack directories found: C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\10.0.5
+         Found package overrides file C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\10.0.5\data\PackageOverrides.txt
+         Loading prune package data from PrunePackageData folder
+         Failed to load prune package data from PrunePackageData folder, loading from targeting packs instead
+         Looking for targeting packs in C:\Program Files\dotnet\packs\Microsoft.AspNetCore.App.Ref
+         Pack directories found: C:\Program Files\dotnet\packs\Microsoft.AspNetCore.App.Ref\10.0.5
+         Found package overrides file C:\Program Files\dotnet\packs\Microsoft.AspNetCore.App.Ref\10.0.5\data\PackageOverrides.txt
+     5>Done Building Project "C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Api\SysOpsServices.Api.csproj" (_GenerateProjectRestoreGraph target(s)).
+     1>Restore:
+         X.509 certificate chain validation will use the default trust store selected by .NET for code signing.
+         X.509 certificate chain validation will use the default trust store selected by .NET for timestamping.
+         Restoring packages for C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\SysOpsServices.Domain.csproj...
+         Restoring packages for C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\SysOpsServices.Infrastructure.csproj...
+         Restoring packages for C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Api\SysOpsServices.Api.csproj...
+         Restoring packages for C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\SysOpsServices.Application.csproj...
+         Assets file has not changed. Skipping assets file writing. Path: C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\obj\project.assets.json
+         Restored C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Domain\SysOpsServices.Domain.csproj (in 113 ms).
+           CACHE https://api.nuget.org/v3-flatcontainer/automapper.extensions.microsoft.dependencyinjection/index.json
+     1>C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Api\SysOpsServices.Api.csproj : error NU1102: Unable to find package AutoMapper.Extensions.Microsoft.DependencyInjection with version (>= 16.1.1) [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Api\SysOpsServices.Api.csproj : error NU1102:   - Found 26 version(s) in nuget.org [ Nearest version: 12.0.1 ] [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Api\SysOpsServices.Api.csproj : error NU1102:   - Found 0 version(s) in Microsoft Visual Studio Offline Packages [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+     1>C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\SysOpsServices.Application.csproj : error NU1102: Unable to find package AutoMapper.Extensions.Microsoft.DependencyInjection with version (>= 16.1.1) [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\SysOpsServices.Application.csproj : error NU1102:   - Found 26 version(s) in nuget.org [ Nearest version: 12.0.1 ] [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\SysOpsServices.Application.csproj : error NU1102:   - Found 0 version(s) in Microsoft Visual Studio Offline Packages [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+     1>C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\SysOpsServices.Infrastructure.csproj : error NU1102: Unable to find package AutoMapper.Extensions.Microsoft.DependencyInjection with version (>= 16.1.1) [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\SysOpsServices.Infrastructure.csproj : error NU1102:   - Found 26 version(s) in nuget.org [ Nearest version: 12.0.1 ] [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\SysOpsServices.Infrastructure.csproj : error NU1102:   - Found 0 version(s) in Microsoft Visual Studio Offline Packages [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+           GET https://api.nuget.org/v3/vulnerabilities/index.json
+           OK https://api.nuget.org/v3/vulnerabilities/index.json 255ms
+           GET https://api.nuget.org/v3-vulnerabilities/2026.03.24.11.50.07/vulnerability.base.json
+           GET https://api.nuget.org/v3-vulnerabilities/2026.03.24.11.50.07/2026.03.25.05.50.10/vulnerability.update.json
+           OK https://api.nuget.org/v3-vulnerabilities/2026.03.24.11.50.07/vulnerability.base.json 99ms
+           OK https://api.nuget.org/v3-vulnerabilities/2026.03.24.11.50.07/2026.03.25.05.50.10/vulnerability.update.json 360ms
+         Writing assets file to disk. Path: C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\obj\project.assets.json
+         Writing assets file to disk. Path: C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Api\obj\project.assets.json
+         Writing assets file to disk. Path: C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\obj\project.assets.json
+         Failed to restore C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\SysOpsServices.Application.csproj (in 1.78 sec).
+         Failed to restore C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\SysOpsServices.Infrastructure.csproj (in 1.78 sec).
+         Failed to restore C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Api\SysOpsServices.Api.csproj (in 1.78 sec).
+         
+         NuGet Config files used:
+             C:\Users\morda\AppData\Roaming\NuGet\NuGet.Config
+             C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.FallbackLocation.config
+             C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+         
+         Feeds used:
+             https://api.nuget.org/v3/index.json
+             C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\
+     1>Done Building Project "C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx" (Restore target(s)) -- FAILED.
+
+Build FAILED.
+
+       "C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx" (Restore target) (1) ->
+       (Restore target) -> 
+         C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Api\SysOpsServices.Api.csproj : error NU1102: Unable to find package AutoMapper.Extensions.Microsoft.DependencyInjection with version (>= 16.1.1) [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+       C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Api\SysOpsServices.Api.csproj : error NU1102:   - Found 26 version(s) in nuget.org [ Nearest version: 12.0.1 ] [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+       C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Api\SysOpsServices.Api.csproj : error NU1102:   - Found 0 version(s) in Microsoft Visual Studio Offline Packages [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+         C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\SysOpsServices.Application.csproj : error NU1102: Unable to find package AutoMapper.Extensions.Microsoft.DependencyInjection with version (>= 16.1.1) [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+       C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\SysOpsServices.Application.csproj : error NU1102:   - Found 26 version(s) in nuget.org [ Nearest version: 12.0.1 ] [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+       C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Application\SysOpsServices.Application.csproj : error NU1102:   - Found 0 version(s) in Microsoft Visual Studio Offline Packages [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+         C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\SysOpsServices.Infrastructure.csproj : error NU1102: Unable to find package AutoMapper.Extensions.Microsoft.DependencyInjection with version (>= 16.1.1) [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+       C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\SysOpsServices.Infrastructure.csproj : error NU1102:   - Found 26 version(s) in nuget.org [ Nearest version: 12.0.1 ] [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+       C:\Users\morda\Downloads\SysOpsServices_API\src\SysOpsServices.Infrastructure\SysOpsServices.Infrastructure.csproj : error NU1102:   - Found 0 version(s) in Microsoft Visual Studio Offline Packages [C:\Users\morda\Downloads\SysOpsServices_API\SysOpsServices.slnx]
+
+    0 Warning(s)
+    3 Error(s)
+
+Time Elapsed 00:00:02.50

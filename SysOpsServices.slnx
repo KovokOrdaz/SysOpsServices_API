@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SysOpsServices.Api/SysOpsServices.Api.csproj" />
+    <Project Path="src/SysOpsServices.Application/SysOpsServices.Application.csproj" />
+    <Project Path="src/SysOpsServices.Domain/SysOpsServices.Domain.csproj" />
+    <Project Path="src/SysOpsServices.Infrastructure/SysOpsServices.Infrastructure.csproj" />
+  </Folder>
+</Solution>
