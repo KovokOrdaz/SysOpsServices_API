@@ -1,3 +1,6 @@
 .vs/
 src/**/bin/
-src/SysOpsServices.Api/bin/
+src/SysOpsServices.Api/
+src/SysOpsServices.Domain/
+src/SysOpsServices.Application/
+src/SysOpsServices.Infrastructure/
